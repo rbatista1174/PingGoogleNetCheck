@@ -1,0 +1,2 @@
+# PingGoogleNetCheck
+Internet Check
